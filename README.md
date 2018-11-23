@@ -32,7 +32,7 @@
 | Easy                     | Medium                       | Hard                                       |
 | :----------------------: | :--------------------------- | :----------------------------------------: |
 | Definir Tamanho de fonte | Mudando para a Fonte correta | Alinhando o Topo (Logo e Navegação)        |
-| ![alt text][logo2]       | ![alt text][logo2]           | ![alt text][logo1]![alt text][logo2]       |
+| ![alt text][logo2]       | ![alt text][logo2]           | [alt text][logo2]                          |
 
 [logo1]:https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Icons/icon-sucesso.jpg "Sucesso"
 [logo2]:https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Icons/icon-em-progresso.jpg "Em Progresso"
