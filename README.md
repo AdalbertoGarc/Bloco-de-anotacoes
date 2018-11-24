@@ -33,7 +33,7 @@
 | :----------------------: | :---------------------------: | :----------------------------------------: |
 | Definir Tamanho de fonte | Mudando para a Fonte correta  | Alinhando o Topo (Logo e Navegação)        |
 | ![alt text][logo1]       | ![alt text][logo1]            | ![alt text][logo1]                         |
-| [Evidência 1](https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Desafios/Aula-002/easy-mudando-tamanho-fonte.PNG "Github Evidência 1")       | [Evidência 2](https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Desafios/Aula-002/hard-alinhando-topo-e-menu-de-navegacao.PNG "Github Evidência 2")           | [Evidência 3](https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Desafios/Aula-002/medium-ajustando-tipo-da-fonte.PNG "Github Evidência 3")                         |
+| [Evidência 1](https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Desafios/Aula-002/easy-mudando-tamanho-fonte.PNG "Github Evidência 1")       | [Evidência 2](https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Desafios/Aula-002/medium-ajustando-tipo-da-fonte.PNG "Github Evidência 2")           | [Evidência 3](https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Desafios/Aula-002/hard-alinhando-topo-e-menu-de-navegacao.PNG "Github Evidência 3")                         |
 
 [logo1]:https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Icons/icon-sucesso.jpg "Sucesso"
 [logo2]:https://github.com/AdalbertoGarc/Bloco-de-anotacoes/blob/master/Aulas/Icons/icon-em-progresso.jpg "Em Progresso"
